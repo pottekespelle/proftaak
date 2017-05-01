@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title></title>
+	<title>Proftaak 2k17</title>
 </head>
 <body>
 
