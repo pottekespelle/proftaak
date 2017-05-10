@@ -9,7 +9,7 @@
 	<?php 
 		include "inc/header.php";
 	 ?>
-
+	 <p>HALLO</p>
 
 	<div class="header_Container">
 		<!-- links logo -> Home -> zoeken -> inlog knop -->
