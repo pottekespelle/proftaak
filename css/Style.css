@@ -1,0 +1,31 @@
+#container{
+	display: flex;
+	justify-content: center;
+	align-content: space-around;
+}
+
+#search-container{
+	display: flex;
+	flex-direction: column;
+	margin-top: 10px;
+
+	width: 800px;
+	height: 600px;
+	padding-left: 10px;
+	padding-right: 10px;
+
+	border: 2px solid darkgray;
+}
+
+#search-Input-Container{
+	display: flex;
+	flex-direction: column;
+}
+
+.Search-input{
+	margin-top: 10px;
+}
+
+#search-Button{
+	border-radius: 2px;
+}
