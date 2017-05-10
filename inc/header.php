@@ -2,6 +2,6 @@
 
 		<div class="top">
 			<a id="logoLAMG" href="Index.php"><img src="img/logo.png" id="logoImg"></a>
-				
+				hallo pasop test
 		</div>
 </div>
