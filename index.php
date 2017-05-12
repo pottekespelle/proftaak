@@ -26,7 +26,7 @@
 	<div class="footer">
 		<!-- left copyright right made by -->
 		<label class="copyright-footer">Copyright 2017 &copy; CSHUB</label>
-		<label class="madeby-footer">Made by Niels v. Laarhoven & Quinten Vis</label>
+		<label class="madeby-footer">Made by Niels v. Laarhoven &amp; Quinten Vis</label>
 	</div>
 </body>
 </html>
