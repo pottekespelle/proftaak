@@ -20,6 +20,13 @@
 			<input type="text" class="input" value="76561198344278706" />
 		</div>
 	</div>
+
+	
 </div>
+	<div class="footer">
+		<!-- left copyright right made by -->
+		<label class="copyright-footer">Copyright 2017 &copy; CSHUB</label>
+		<label class="madeby-footer">Made by Niels v. Laarhoven & Quinten Vis</label>
+	</div>
 </body>
 </html>
