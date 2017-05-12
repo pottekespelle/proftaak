@@ -1,32 +1,25 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Proftaak 2k17</title>
-	<link rel="stylesheet" type="text/css" href="css/headerStyle.css">
+	<title>Proftaak</title>
+	<link rel="stylesheet" type="text/css" href="http://meyerweb.com/eric/tools/css/reset/reset.css">
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<script type="text/javascript" src="js/main.js"></script>
 </head>
 <body>
+<div>
+	<div class="header">
+        <a><img src="img/logo.png" class="logo"></a>
+        <a><img src="img/login.png" class="login"></a>
+    </div>
 
-	<?php 
-		include "inc/header.php";
-	 ?>
-	 <p>HALLO</p>
-
-	<div class="header_Container">
-		<!-- links logo -> Home -> zoeken -> inlog knop -->
-	</div>
-
-	<div id="container">
-
-		<div id="search-container">
-			<!-- search for steam ID's -->
-			<div id="search-Input-Container">
-				<input type="text" name="" class="Search-input">
-				<button class="Search-input" id="search-Button">Search</button>
-			</div>
-			
+	<div class="wrapper">
+		<div class="form-input">
+			<label class="icon glyphicon glyphicon-pencil"></label>
+			<button id="convert" class="button glyphicon glyphicon-search"></button>
+			<input type="text" class="input" value="76561198344278706" />
 		</div>
-
 	</div>
-
+</div>
 </body>
 </html>
